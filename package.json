@@ -1,9 +1,11 @@
 {
-  "name": "my-project",
+  "name": "jetzt",
   "scripts": {
     "start": "micro index"
   },
   "dependencies": {
-    "micro": "latest"
+    "micro": "latest",
+    "pg-promise": "^5.9.6",
+    "then-sleep": "^1.0.1"
   }
 }
